@@ -696,5 +696,4 @@ For issues and questions:
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: February 2024  
 **Built with**: Laravel 11 ❤️
